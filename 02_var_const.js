@@ -1,0 +1,11 @@
+console.log("var let and const");
+var a=40;
+let b="hello world";
+var c=null;
+var d=undefined;
+console.log(c);
+ b= 23;
+c=b+ "  hello world";
+console.log(c);
+const e=40;
+console.log(e);
